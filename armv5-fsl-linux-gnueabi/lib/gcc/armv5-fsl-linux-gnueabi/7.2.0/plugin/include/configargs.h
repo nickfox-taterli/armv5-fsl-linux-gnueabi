@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/tater/x-tools/.build/armv5-fsl-linux-gnueabi/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=armv5-fsl-linux-gnueabi --prefix=/home/tater/x-tools/armv5-fsl-linux-gnueabi --with-sysroot=/home/tater/x-tools/armv5-fsl-linux-gnueabi/armv5-fsl-linux-gnueabi/sysroot --enable-languages=c,c++ --with-cpu=arm926ej-s --with-fpu=vfp --with-bugurl=https://www.lijingquan.net/ --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/home/tater/x-tools/.build/armv5-fsl-linux-gnueabi/buildtools --with-mpfr=/home/tater/x-tools/.build/armv5-fsl-linux-gnueabi/buildtools --with-mpc=/home/tater/x-tools/.build/armv5-fsl-linux-gnueabi/buildtools --with-isl=/home/tater/x-tools/.build/armv5-fsl-linux-gnueabi/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-threads=posix --enable-target-optspace --disable-libstdcxx-pch --enable-linker-build-id --with-linker-hash-style=both --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/home/tater/x-tools/armv5-fsl-linux-gnueabi/armv5-fsl-linux-gnueabi/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "arm926ej-s" }, { "fpu", "vfp" }, { "tls", "gnu" } };
